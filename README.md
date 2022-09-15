@@ -7,19 +7,21 @@ Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Featur
 ## Dependencies and system requirements (packages and versions)
 
 Dependencies
-* scipy ()
- * numpy (0.53.3)
- * pandas
- * opencv-python
- * tifffile
- * matplotlib
- * ipywidgets
+* scipy (1.6.2)
+ * numpy (1.20.1)
+ * pandas (1.2.4)
+ * opencv-python (4.5.5.64)
+ * tifffile (2021.4.8)
+ * matplotlib (3.3.4)
+ * ipywidgets (7.6.3)
   
 System Requirements
-* 
+* 2.50GHz CPU
+*16.0 GB RAM
+*64-bit operating system
+*Windows PC
+*No GPU dependencies required
 This will need to be pulled from Alexa's PC--the final conda environment will need to be generated. Instructions to do this can be found here. https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#exporting-the-environment-yml-file 
-Additionally, specify computer hardware based on your laptop's specifications as needed. The code for adaptive segmentation requires no GPU dependencies. <WILL NEED TO BE FILLED IN BASED ON ALEXA'S LAPTOP + CONDA ENVIRONMENT>  
-<AFTER COMPLETION, PICK OUT SPECIFIC PACKAGE VERSIONS FOR REQUIREMENTS.TXT>  
 
 ## How to install and run the code
 
