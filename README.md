@@ -2,7 +2,7 @@
 
 ## Brief description of the repository
 
-Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting.  INSERT COMPARISON IMAGE. 
+Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting. `Overview_Image`
 
 ## Dependencies and system requirements (packages and versions)
 
@@ -33,5 +33,3 @@ Additionally, specify computer hardware based on your laptop's specifications as
   - ALEXA WILL NEED TO SPECIFY THE EXACT COMBINATION OF PARAMETERS SHE USED FOR THE FINAL DATA GENERATION HERE
 
 ## How to cite this code (Alexa & Emmanuel will complete this section)
-
-![./resources/img.png](./resources/img.png)
