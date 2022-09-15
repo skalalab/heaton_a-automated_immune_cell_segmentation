@@ -28,7 +28,7 @@ This will need to be pulled from Alexa's PC--the final conda environment will ne
 1. Clone the GitHub Repository
 2. Create an Anaconda environment using the provided `environment.yml` file (generated above)
   - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file specific instructions are presented here. 
-3. Run through the `CD4_notebook.ipynb`. If this is your first time running the notebook, ensure that you run the first cell for installing all files from `requirements.txt`
+3. Run through the `Immune_Cell_Segmentation_Notebook.ipynb`. If this is your first time running the notebook, ensure that you run the first cell for installing all files from `requirements.txt`
 4. Change `base_path` to the location of the stored data. 
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
 6. Update parameters in `adpative segmentation` and proceed with data generation. Voila!  
