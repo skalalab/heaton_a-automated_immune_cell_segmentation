@@ -30,6 +30,13 @@ Additionally, specify computer hardware based on your laptop's specifications as
 4. Change `base_path` to the location of the stored data. 
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
 6. Update parameters in `adpative segmentation` and proceed with data generation. Voila!  
-  - ALEXA WILL NEED TO SPECIFY THE EXACT COMBINATION OF PARAMETERS SHE USED FOR THE FINAL DATA GENERATION HERE
+7. Final spleen data was generated with the following parameters: 
+-Minimum ROI: 40
+-Lifetime Minimum: 800
+-Lifetime Maximum: 1500
+8. Final spleen data was generated with the following parameters:
+-Minimum ROI: 60
+-Lifetime Minimum: 1000
+-Lifetime Maximum: 1500
 
 ## How to cite this code (Alexa & Emmanuel will complete this section)
