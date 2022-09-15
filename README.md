@@ -1,6 +1,6 @@
 # Automated Immune Cell Segmentation
 ## Brief description of the repository
-Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation, specifically multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting.  INSERT COMPARISON IMAGE. 
+Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting.  INSERT COMPARISON IMAGE. 
 ## Dependencies and system requirements (packages and versions)
 This will need to be pulled from Alexa's PC--the final conda environment will need to be generated. Instructions to do this can be found here. https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#exporting-the-environment-yml-file 
 Additionally, specify computer hardware based on your laptop's specifications as needed. The code for adaptive segmentation requires no GPU dependencies. <WILL NEED TO BE FILLED IN BASED ON ALEXA'S LAPTOP + CONDA ENVIRONMENT>  
