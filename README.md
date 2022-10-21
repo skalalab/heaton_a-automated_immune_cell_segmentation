@@ -17,10 +17,10 @@ Dependencies
   
 System Requirements
 * 2.50GHz CPU
-*16.0 GB RAM
-*64-bit operating system
-*Windows PC
-*No GPU dependencies required
+  *16.0 GB RAM
+  *64-bit operating system
+  *Windows PC
+  *No GPU dependencies required
 This will need to be pulled from Alexa's PC--the final conda environment will need to be generated. Instructions to do this can be found here. https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#exporting-the-environment-yml-file 
 
 ## How to install and run the code
