@@ -25,19 +25,19 @@ System Requirements
 ## How to install and run the code
 
 1. Clone the GitHub Repository
-2. Create an Anaconda environment and install dependencies.
+2. Create an Anaconda environment.
 3. Run through the `Immune_Cell_Segmentation_Notebook.ipynb`. If this is your first time running the notebook, ensure that you run the first cell for installing all files from `requirements.txt`
 4. Change `base_path` to the location of the stored data. 
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
 6. Update parameters in `adpative segmentation` and proceed with data generation. Voila!  
 7. Final spleen segmentation data was generated with the following parameters: 
-  *Minimum ROI: 40
-  *Lifetime Minimum: 800
-  *Lifetime Maximum: 1500
+    * Minimum ROI: 40
+    * Lifetime Minimum: 800
+    * Lifetime Maximum: 1500
 8. Final tumor segmentation data was generated with the following parameters:
-  *Minimum ROI: 60
-  *Lifetime Minimum: 1000
-  *Lifetime Maximum: 1500
+    * Minimum ROI: 60
+    * Lifetime Minimum: 1000
+    * Lifetime Maximum: 1500
 
 ## Demo
 
