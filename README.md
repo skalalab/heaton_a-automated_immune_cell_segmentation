@@ -39,13 +39,12 @@ System Requirements
     * Lifetime Minimum: 1000
     * Lifetime Maximum: 1500
 
-## How to cite this code (Alexa & Emmanuel will complete this section)
+## How to cite this code
 
 ```tex
 https://github.com/trevismd/statannotations/issues/78
 @software{florian_charlier_2022_7213391,
-  author       = {Florian Charlier and
-                  },
+  author       = {Peter R. Rehani and Alexa R. Heaton and Emmanuel Contreras Guzman and Melissa C. Skala},
   title        = {Statannotations},
   month        = oct,
   year         = 2022,
