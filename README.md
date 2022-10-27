@@ -8,26 +8,24 @@ Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Featur
 
 Dependencies
 * scipy (1.6.2)
- * numpy (1.20.1)
- * pandas (1.2.4)
- * opencv-python (4.5.5.64)
- * tifffile (2021.4.8)
- * matplotlib (3.3.4)
- * ipywidgets (7.6.3)
+* numpy (1.20.1)
+* pandas (1.2.4)
+* opencv-python (4.5.5.64)
+* tifffile (2021.4.8)
+* matplotlib (3.3.4)
+* ipywidgets (7.6.3)
   
 System Requirements
 * 2.50GHz CPU
-  *16.0 GB RAM
-  *64-bit operating system
-  *Windows PC
-  *No GPU dependencies required
-This will need to be pulled from Alexa's PC--the final conda environment will need to be generated. Instructions to do this can be found here. https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#exporting-the-environment-yml-file 
+* 16.0 GB RAM
+* 64-bit operating system
+* Windows 10
+* No GPU dependencies required
 
 ## How to install and run the code
 
 1. Clone the GitHub Repository
-2. Create an Anaconda environment using the provided `environment.yml` file (generated above)
-  - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file specific instructions are presented here. 
+2. Create an Anaconda environment and install dependencies.
 3. Run through the `Immune_Cell_Segmentation_Notebook.ipynb`. If this is your first time running the notebook, ensure that you run the first cell for installing all files from `requirements.txt`
 4. Change `base_path` to the location of the stored data. 
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
