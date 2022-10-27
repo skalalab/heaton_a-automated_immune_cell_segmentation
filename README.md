@@ -31,10 +31,12 @@ System Requirements
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
 6. Update parameters in `adpative segmentation` and proceed with data generation. Voila!  
 7. Final spleen segmentation data was generated with the following parameters: 
+    * Save Masks: True
     * Minimum ROI: 40
     * Lifetime Minimum: 800
     * Lifetime Maximum: 1500
 8. Final tumor segmentation data was generated with the following parameters:
+    * Save Masks: True
     * Minimum ROI: 60
     * Lifetime Minimum: 1000
     * Lifetime Maximum: 1500
