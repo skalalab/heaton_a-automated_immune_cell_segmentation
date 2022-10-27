@@ -42,7 +42,7 @@ System Requirements
 ## How to cite this code
 
 ```tex
-https://github.com/skalalab/heaton_a-automated_immune_cell_segmentation.git@software{Peter_R_Rehani_2022_7213391,
+https://github.com/skalalab/heaton_a-automated_immune_cell_segmentation.git@software{Peter_R_Rehani_2022_7213391},
   author       = {Peter R. Rehani and Alexa R. Heaton and Emmanuel Contreras Guzman and Melissa C. Skala},
   title        = {Statannotations},
   month        = dec,
@@ -51,5 +51,4 @@ https://github.com/skalalab/heaton_a-automated_immune_cell_segmentation.git@soft
   version      = {v1.0},
   doi          = {10.5281/zenodo.7213391},
   url          = {https://doi.org/10.5281/zenodo.7213391}
-}
 ```
