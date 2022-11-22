@@ -27,7 +27,7 @@ System Requirements
 1. Clone the GitHub Repository
 2. Create an Anaconda environment.
 3. Run through the `Immune_Cell_Segmentation_Notebook.ipynb`. If this is your first time running the notebook, ensure that you run the first cell for installing all files from `requirements.txt`
-4. `base_path` is currently pointing to the demo data included above. to analyze your own data change the `base_path` to the location of your files. 
+4. `base_path` is currently pointing to the demo data included above. To analyze your own data change the `base_path` to the location of your files. 
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
 6. Update parameters in `adpative segmentation` and proceed with data generation. Voila!  
 7. Final spleen segmentation data was generated with the following parameters: 
