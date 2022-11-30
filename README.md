@@ -33,24 +33,25 @@ System Requirements
 7. Final spleen segmentation data was generated with the following parameters: 
     * Save Masks: True
     * Minimum ROI: 40
+    * Include Lifetime: True
     * Lifetime Minimum: 800
     * Lifetime Maximum: 1500
 8. Final tumor segmentation data was generated with the following parameters:
     * Save Masks: True
     * Minimum ROI: 60
+    * Include Lifetime: True
     * Lifetime Minimum: 1000
     * Lifetime Maximum: 1500
 
 ## How to cite this code
 
 ```tex
-https://github.com/skalalab/heaton_a-automated_immune_cell_segmentation.git@software{Peter_R_Rehani_2022_7213391},
-  author       = {Peter R. Rehani and Alexa R. Heaton and Emmanuel Contreras Guzman and Melissa C. Skala},
-  title        = {Statannotations},
+  author       = {Alexa R. Heaton, Peter R. Rehani, Anna Hoefges, Angelica F. Lopez, Amy K. Erbe, Paul M. Sondel, and Melissa C. Skala},
+  title        = {Single cell metabolic imaging of tumor and immune cells __in vivo__ in melanoma bearing mice},
   month        = dec,
   year         = 2022,
   publisher    = {Zenodo},
   version      = {v1.0},
-  doi          = {10.5281/zenodo.7213391},
-  url          = {https://doi.org/10.5281/zenodo.7213391}
+  doi          = {xx},
+  url          = {xx}
 ```
