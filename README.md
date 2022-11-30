@@ -47,7 +47,7 @@ System Requirements
 
 ```tex
   author       = {Alexa R. Heaton, Peter R. Rehani, Anna Hoefges, Angelica F. Lopez, Amy K. Erbe, Paul M. Sondel, and Melissa C. Skala},
-  title        = {Single cell metabolic imaging of tumor and immune cells *in vivo* in melanoma bearing mice},
+  title        = {Single cell metabolic imaging of tumor and immune cells in vivo in melanoma bearing mice},
   month        = dec,
   year         = 2022,
   publisher    = {Zenodo},
