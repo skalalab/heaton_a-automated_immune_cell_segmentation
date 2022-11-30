@@ -372,6 +372,8 @@ def adaptive_segmentation(image_list,
                 fname = None
         else: 
             pass
+            export = False
+            fname = None
         from matplotlib import colors
 
         post_thresh_proc_dict = post_thresholding_processing_driver(threshold_intermediate_dict,
