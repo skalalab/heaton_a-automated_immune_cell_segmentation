@@ -2,7 +2,8 @@
 
 ## Brief description of the repository
 
-Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting. `Overview_Image`
+Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically, this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting. 
+![Overview Image](Overview_Image.png)
 
 ## Dependencies and system requirements (packages and versions)
 
@@ -25,7 +26,7 @@ System Requirements
 ## How to install and run the code
 
 1. Clone the GitHub Repository
-2. Create an Anaconda environment.
+2. [Create an Anaconda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 3. Run through the `Immune_Cell_Segmentation_Notebook.ipynb`. If this is your first time running the notebook, ensure that you run the first cell for installing all files from `requirements.txt`
 4. `base_path` is currently pointing to the demo data included above. To analyze your own data change the `base_path` to the location of your files. 
 5. Continue running through cells to generate file lists and read in all requisite files for recreating results. 
