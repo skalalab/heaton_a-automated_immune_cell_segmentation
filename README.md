@@ -2,7 +2,7 @@
 
 ## Brief description of the repository
 
-Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically, this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting. 
+Code for recreating results in the publication: *Single cell metabolic imaging of tumor and immune cells in vivo in melanoma bearing mice*. Features classical image processing based techniques for single cell segmentation. Specifically, this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting. 
 ![Overview Image](Overview_Image.png)
 
 ## Dependencies and system specifications (packages and versions)
