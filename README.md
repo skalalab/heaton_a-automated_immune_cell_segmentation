@@ -5,7 +5,7 @@
 Code for recreating results in the publication <INSERT FINAL PAPER NAME>. Features classical image processing based techniques for single cell segmentation. Specifically, this involves multiple thresholding methods for foreground/background differentiation, edge detection filters for border creation, and combination of methods through ensemble voting. 
 ![Overview Image](Overview_Image.png)
 
-## Dependencies and system requirements (packages and versions)
+## Dependencies and system specifications (packages and versions)
 
 Dependencies
 * scipy (1.6.2)
@@ -16,7 +16,7 @@ Dependencies
 * matplotlib (3.3.4)
 * ipywidgets (7.6.3)
   
-System Requirements
+System Specifications
 * 2.50GHz CPU
 * 16.0 GB RAM
 * 64-bit operating system
@@ -49,8 +49,8 @@ System Requirements
 ```tex
   author       = {Alexa R. Heaton, Peter R. Rehani, Anna Hoefges, Angelica F. Lopez, Amy K. Erbe, Paul M. Sondel, and Melissa C. Skala},
   title        = {Single cell metabolic imaging of tumor and immune cells in vivo in melanoma bearing mice},
-  month        = dec,
-  year         = 2022,
+  month        = feb,
+  year         = 2023,
   publisher    = {Zenodo},
   version      = {v1.0},
   doi          = {xx},
