@@ -55,6 +55,6 @@ System Specifications
   year         = 2023,
   publisher    = {Zenodo},
   version      = {v1.0},
-  doi          = {10.3389/fonc.2023.1110503},
-  url          = {xx}
+  doi          = {10.5281/zenodo.7696762},
+  url          = {https://github.com/skalalab/heaton_a-automated_immune_cell_segmentation}
 ```
