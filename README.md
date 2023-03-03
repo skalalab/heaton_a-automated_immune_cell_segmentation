@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/479512170.svg)](https://zenodo.org/badge/latestdoi/479512170)
+
 # Automated Immune Cell Segmentation
 
 ## Brief description of the repository
